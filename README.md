@@ -7,7 +7,7 @@ oovie is a simple app for searching movie information.
 App uses The Movie Database API(https://developers.themoviedb.org/3/getting-started/) for getting a needed information.
 ![alt text](https://github.com/eeny3/oovie/blob/master/screenshots/sc1.png?raw=true)
 ## What does it look like?
-### first screen: just a small list of my movie recomendations
+### first screen: just a small list of my movie recomendations, tapping on poster will navigate user to screen with all the movie info
 ![alt text](https://github.com/eeny3/oovie/blob/master/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).png?raw=true)
 
 ### search and loading screen: textfield where user can enter the movie name and search for info, if movie does not exist toast message will be shown
